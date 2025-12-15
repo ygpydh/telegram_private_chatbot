@@ -12,7 +12,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><strong>📢 更新公告 (v4.2)：安全升级 & 功能增强</strong></summary>
 <br>
 
